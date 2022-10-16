@@ -8,5 +8,5 @@ Link para o vídeo explicativo, etapa 1: https://youtu.be/d1tC5yqbNuw
 Link para o vído da segunda etapa: https://youtu.be/nAazcpOJ4_0
 
 Para acessar a aplicação, é preciso utilizar:
-  usuário (e-mail): admin
-  senha: admin 
+  usuário (e-mail)= admin
+  senha= admin 
